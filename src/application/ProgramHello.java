@@ -7,7 +7,7 @@ public class ProgramHello {
 		System.out.println("Boa noite!");
 		System.out.println("Boa tarde!");
 		System.out.println("Bom dia!");
-		System.out.println("Tchau!");
+		System.out.println("Tchau, DEVs!");
 	}
 
 }
